@@ -1,0 +1,14 @@
+# ums9230_1h10_Natv-user 13 TP1A.220624.014 24443 release-keys
+- manufacturer: chinoe
+- platform: ums9230
+- codename: M5A
+- flavor: ums9230_1h10_Natv-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: 24443
+- tags: release-keys
+- fingerprint: FreeYond/M5A_EEA/M5A:13/TP1A.220624.014/24443:user/release-keys
+- is_ab: true
+- brand: FreeYond
+- branch: ums9230_1h10_Natv-user-13-TP1A.220624.014-24443-release-keys
+- repo: freeyond_m5a_dump
